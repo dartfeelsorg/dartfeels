@@ -1,5 +1,4 @@
-.logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+logo.center {
+    display: block;
+    margin: 0 auto;
 }
